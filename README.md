@@ -38,12 +38,6 @@
 ![Drupal](https://img.shields.io/badge/drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white)
 ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
 
-📝 Хобби и интересы
-
-- 🌍 Люблю путешествовать.
-- 🎧 Слушаю музыку.
-
-🤝 Давайте сотрудничать
 
 - 👯 Открыт к сотрудничеству в проектах на Java и Spring.
 - 🤔 Ищу наставничество и руководство в Java.
